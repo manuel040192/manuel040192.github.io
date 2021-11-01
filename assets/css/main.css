@@ -2695,3 +2695,7 @@ input, select, textarea {
    max-width: 100%;
    height: auto;
 }
+
+.paragraph {
+	color: rgb(43, 43, 43);
+}
