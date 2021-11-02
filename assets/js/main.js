@@ -121,3 +121,9 @@
 				});
 
 })(jQuery);
+
+// Projects opened in new tabs.
+
+function imageSixClicked() {
+	window.open("https://www.google.com.pe");
+}
