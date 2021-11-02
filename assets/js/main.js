@@ -127,3 +127,11 @@
 function imageSixClicked() {
 	window.open("https://manuel040192.github.io/interactive-pricing-component-challenge");
 }
+
+function imageSevenClicked() {
+	window.open("https://manuel040192.github.io/technews-webpage");
+}
+
+function imageEightClicked() {
+	window.open("https://manuel040192.github.io/tasty-webpage");
+}
