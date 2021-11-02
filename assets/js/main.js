@@ -125,5 +125,5 @@
 // Projects opened in new tabs.
 
 function imageSixClicked() {
-	window.open("https://www.google.com.pe");
+	window.open("https://manuel040192.github.io/interactive-pricing-component-challenge");
 }
