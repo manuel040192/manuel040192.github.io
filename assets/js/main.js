@@ -135,7 +135,3 @@ function imageSevenClicked() {
 function imageEightClicked() {
 	window.open("https://manuel040192.github.io/tasty-webpage");
 }
-
-function imageNineClicked() {
-	window.open("https://tesla-clone-webpage.herokuapp.com");
-}
