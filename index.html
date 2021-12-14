@@ -205,12 +205,12 @@
 
 							<!-- <p></p>-->
 
-							<form method="post" action="#">
+							<form method="post" action="#" id="contactForm">
 								<div class="row">
-									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Nombre" /></div>
-									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="col-6 col-12-mobile"><input id="name" type="text" name="name" placeholder="Nombre" /></div>
+									<div class="col-6 col-12-mobile"><input id="email" type="text" name="email" placeholder="Email" /></div>
 									<div class="col-12">
-										<textarea name="message" placeholder="Mensaje"></textarea>
+										<textarea id="msgContent" name="message" placeholder="Mensaje"></textarea>
 									</div>
 									<div class="col-12">
 										<input type="submit" value="Enviar Mensaje" />
@@ -241,6 +241,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+  			<script src="./assets/js/firebase.js"></script>
 
 	</body>
 </html>
