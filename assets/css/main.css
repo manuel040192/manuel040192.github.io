@@ -2699,3 +2699,15 @@ input, select, textarea {
 .paragraph {
 	color: rgb(43, 43, 43);
 }
+
+.alert{
+  width: 100%;
+  background: rgb(0, 255, 106);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  display: none;
+  color: #000000;
+}
