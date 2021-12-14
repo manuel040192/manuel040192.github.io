@@ -1,13 +1,4 @@
-const firebaseConfig = {
-    apiKey: "AIzaSyBaYUqX-0H11htZYkYhhQm1XcsaOBLuHZE",
-    authDomain: "auth-development-b3b63.firebaseapp.com",
-    databaseURL: "https://auth-development-b3b63-default-rtdb.firebaseio.com",
-    projectId: "auth-development-b3b63",
-    storageBucket: "auth-development-b3b63.appspot.com",
-    messagingSenderId: "147576290002",
-    appId: "1:147576290002:web:0f99179b827f690b804b0b",
-    measurementId: "G-6NDC6SLGY2"
-};
+// const firebaseConfig = ...
 
 // initialize firebase
 firebase.initializeApp(firebaseConfig);
